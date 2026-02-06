@@ -1,0 +1,8 @@
+,trade_frequency,trade_frequency,trade_frequency,avg_position_size_usd,avg_position_size_usd,total_volume_usd,total_volume_usd,daily_pnl,daily_pnl,daily_pnl,long_short_ratio_count,long_short_ratio_count,buy_percentage,buy_percentage,implied_leverage_factor,implied_leverage_factor,total_fees,total_fees
+,mean,median,sum,mean,median,mean,sum,mean,median,sum,mean,median,mean,median,mean,median,mean,sum
+sentiment_category,,,,,,,,,,,,,,,,,,
+Extreme Fear,1528.57,1097.5,21400,4091.8,4236.13,8177447.25,114484261.44,52793.59,22561.74,739110.25,1.14,1.01,48.65,51.15,79.89,74.06,1706.33,23888.63
+Extreme Greed,350.81,133.0,39992,4410.52,3418.98,1091799.69,124465164.57,23817.29,3127.54,2715171.31,1.69,0.78,45.68,43.88,23.18,14.42,237.11,27030.67
+Fear,679.53,88.0,61837,6524.29,4186.97,5311261.43,483324789.79,36891.82,1412.31,3357155.44,3.23,1.0,51.35,51.25,44.46,11.75,1016.01,92456.95
+Greed,260.64,47.0,50303,6735.3,5304.98,1495246.09,288582494.72,11140.57,678.48,2150129.27,2.72,0.83,49.35,46.67,19.05,6.34,326.94,63098.69
+Neutral,562.48,50.0,37686,7157.53,6000.24,2690180.05,180242063.08,19297.32,1818.57,1292920.68,2.53,1.03,49.98,50.74,32.77,8.87,587.68,39374.27
