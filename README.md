@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 2. **Open Jupyter**:
    ```bash
-   jupyter notebook simplified_analysis.ipynb
+   jupyter notebook primetrade_analysis.ipynb
    ```
 
 3. **Run all cells** (Cell → Run All)
