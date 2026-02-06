@@ -1,0 +1,33 @@
+Column,Description
+date,Trading date
+trade_frequency,Number of trades executed on this day
+avg_position_size_usd,Average position size in USD
+median_position_size_usd,Median position size in USD
+total_volume_usd,Total trading volume in USD
+position_size_std_usd,Standard deviation of position sizes
+avg_position_size_tokens,Average position size in tokens
+total_volume_tokens,Total volume traded in tokens
+daily_pnl,Total PnL for the day
+avg_pnl_per_trade,Average PnL per trade
+avg_execution_price,Average execution price
+min_execution_price,Minimum execution price
+max_execution_price,Maximum execution price
+total_fees,Total fees paid
+start_of_day_position,Position at start of day
+end_of_day_position,Position at end of day
+buy_trades,Number of buy trades
+sell_trades,Number of sell trades
+buy_volume_usd,Total USD volume from buy trades
+sell_volume_usd,Total USD volume from sell trades
+buy_volume_tokens,Total token volume from buy trades
+sell_volume_tokens,Total token volume from sell trades
+long_short_ratio_count,Ratio of buy to sell trades (count)
+long_short_ratio_volume,Ratio of buy to sell volume (USD)
+net_volume_usd,Net volume (buy - sell) in USD
+net_volume_tokens,Net volume (buy - sell) in tokens
+buy_percentage,Percentage of trades that are buys
+max_position_usd,Maximum position size for the day
+position_range_usd,Range of position sizes
+implied_leverage_factor,Estimated leverage factor
+sentiment_value,Fear & Greed Index value (0-100)
+sentiment_category,"Sentiment category (Fear, Neutral, Greed)"
